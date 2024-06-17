@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Bickey Raj</h1>
 <h3 align="center">A passionate MERN developer and UI/UX Designer from India.</h3>
 
 - 🔭 I’m currently working on **my final year project on Doctor Appointment Application**
